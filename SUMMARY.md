@@ -1,10 +1,10 @@
 # Table of contents
 
-* [⚙ v0.0.9](README.md)
+* [简介](README.md)
+* [⚙ v0.0.9](v0.0.9/README.md)
   * [v0.0.8](v0.0.9/v0.0.8.md)
   * [v0.0.7](v0.0.9/v0.0.7.md)
   * [v0.0.6](v0.0.9/v0.0.6.md)
-* [简介](jian-jie.md)
 * [加密与授权](jia-mi-yu-shou-quan.md)
 
 ## 入门安装 <a href="#rumenanzhuang" id="rumenanzhuang"></a>
