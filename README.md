@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 简介
 
 
