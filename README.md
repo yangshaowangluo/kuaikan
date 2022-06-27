@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # ⚙ v0.0.9
 
 {% hint style="info" %}
