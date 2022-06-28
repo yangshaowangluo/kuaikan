@@ -41,8 +41,6 @@
 
 * [版本计划](ban-ben-geng-xin/ban-ben-ji-hua/README.md)
   * [GitHub Integration](ban-ben-geng-xin/ban-ben-ji-hua/github-integration.md)
-* [更新日志](ban-ben-geng-xin/geng-xin-ri-zhi/README.md)
-  * [Intercom Integration](ban-ben-geng-xin/geng-xin-ri-zhi/intercom-integration.md)
 
 ## 常见问题
 
