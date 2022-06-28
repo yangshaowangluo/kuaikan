@@ -1,10 +1,10 @@
 # Table of contents
 
 * [简介](README.md)
-* [更新日志](gengxin-rizhi/README.md)
-  * [v0.0.9](gengxin-rizhi/v0.0.9.md)
-  * [v0.0.7](gengxin-rizhi/v0.0.7.md)
-  * [v0.0.6](gengxin-rizhi/v0.0.6.md)
+* [更新日志](v0.0.9/README.md)
+  * [v0.0.9](v0.0.9/v0.0.8.md)
+  * [v0.0.7](v0.0.9/v0.0.7.md)
+  * [v0.0.6](v0.0.9/v0.0.6.md)
 * [加密与授权](jia-mi-yu-shou-quan.md)
 
 ## 入门安装 <a href="#rumenanzhuang" id="rumenanzhuang"></a>
